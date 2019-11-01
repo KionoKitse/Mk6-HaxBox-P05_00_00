@@ -25,6 +25,7 @@ namespace Mk6_HaxBox_P05_00_00
         public MainPage()
         {
             this.InitializeComponent();
+            int Hello_Navigation;
         }
     }
 }
