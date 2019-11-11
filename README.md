@@ -1,4 +1,4 @@
 # Mk6-HaxBox-P05_00_00
 Modify an older Mk6 GTI into a statistical data logging analytical tool
 
-This software is intended to run on an UP Board running Windows 10 (minimum version 1809). It provides a simple GUI intended to be displayed on a 7" HDMI monitor fitted within the vehicle center counsel. Data is acquired trough the OBDII port of the vehicle using a USB Ross-Tech VCDS. Data is logged and stored over the life time of the vehicle to monitor the overall health. Statistical analysis will assist will identifying potential component failure by monitoring the historical variance of the system data. Additionally the system will track and prompt recommended periodic maintenance to ensure that components are replace before failure. Usage stats, fuel logs and maintenance costs will contribute to a better understanding of the costs associated with vehicle ownership.
+This branch is for development of the maintenance section of the software. It will be merged back into the main branch once it is completed.
