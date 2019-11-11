@@ -7,8 +7,49 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" d:DesignWidth="1024" d:DesignHeight="600">
+    <Page.Resources>
+        <FontFamily x:Key="FontAwesomeBrands">ms-appx:///Assets/Fonts/Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands</FontFamily>
+        <FontFamily x:Key="FontAwesomeSolid">ms-appx:///Assets/Fonts/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free</FontFamily>
+        <FontFamily x:Key="FontAwesomeRegular">ms-appx:///Assets/Fonts/Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free</FontFamily>
+    </Page.Resources>
 
     <Grid>
+        <!--Top panel-->
+        <Grid HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="1024" Background="#FFE6E6E6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="230" />
+                <ColumnDefinition Width="40" />
+                <ColumnDefinition Width="40" />
+                <ColumnDefinition Width="40" />
+                <ColumnDefinition Width="40" />
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="tbPageTitle" Text="This is the default page title ~_~)" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,0,0,0" TextWrapping="Wrap"/>
+            <Grid Grid.Row="0" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="24" />
+                    <ColumnDefinition Width="182" />
+                    <ColumnDefinition Width="24" />
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="txtBrightL" Text="&#xEC8A;" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="14" Width="14" Foreground="#FF8A8A8A" FontFamily="Segoe MDL2 Assets"/>
+                <Slider x:Name="sldrBrightness" Grid.Row="0" Grid.Column="1"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="182"  ValueChanged="sldrBrightness_ValueChanged"/>
+                <TextBlock x:Name="txtBrightH" Text="&#xE706;" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="14" Width="14" Foreground="#FF8A8A8A"  FontFamily="Segoe MDL2 Assets"/>
+            </Grid>
+            <Button x:Name="btnDispMode" Content="&#xf186;" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Width="40" Height="40" Background="#FFE6E6E6" Foreground="#FF8A8A8A" FontFamily="{StaticResource FontAwesomeSolid}"/>
+            <Button x:Name="btnFuelLogs" Content="&#xf52f;" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="40" Height="40" Background="#FFE6E6E6" Foreground="#FF8A8A8A" FontFamily="{StaticResource FontAwesomeSolid}" Click="btnFuelLogs_Click"/>
+            <TextBlock x:Name="txtBatteryLevel" Text="&#xf241;" Grid.Row="0" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FF8A8A8A"  FontFamily="{StaticResource FontAwesomeSolid}"/>
+            <Button x:Name="btnSettings" Content="&#xE713;" Grid.Row="0" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Width="40" Height="40" Background="#FFE6E6E6" Foreground="#FF8A8A8A"  FontFamily="Segoe MDL2 Assets" Click="btnSettings_Click"/>
+        </Grid>
+
+        <!--Buttons-->
+        <Button x:Name="btnVehicleStats" Content="Vehicle Stats" Margin="20,60,0,0" VerticalAlignment="Top" Click="btnVehicleStats_Click"/>
+        <Button x:Name="btnNavigation" Content="Navigation" Margin="20,98,0,0" VerticalAlignment="Top" Click="btnNavigation_Click"/>
+        <Button x:Name="btnDataAnalysis" Content="Data Analysis" Margin="20,136,0,0" VerticalAlignment="Top" Click="btnDataAnalysis_Click"/>
+        <Button x:Name="btnMaintenance" Content="Maintenance" Margin="20,174,0,0" VerticalAlignment="Top" Click="btnMaintenance_Click"/>
+        
+        
+
+
 
     </Grid>
 </Page>
