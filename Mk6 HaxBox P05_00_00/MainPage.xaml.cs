@@ -26,6 +26,7 @@ namespace Mk6_HaxBox_P05_00_00
     {
         public BrightnessOverride bo = BrightnessOverride.GetForCurrentView();
         private SharedFunctions ShareTools;
+        private DatabaseTools dbTools;
 
         public MainPage()
         {
@@ -38,6 +39,9 @@ namespace Mk6_HaxBox_P05_00_00
 
             //Update the page title
             tbPageTitle.Text = "Main Page";
+
+            dbTools = new DatabaseTools(); //MySQL
+            dbTools.CheckDatabase();
         }
 
 

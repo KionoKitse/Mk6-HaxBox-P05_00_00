@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>6dc2b4d2-786b-412e-aeeb-23bc39bbf1af</PackageIdentityName>
     <PackageIdentityPublisher>CN=BlackBox</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>55ECA2B5BC3B230492BA7618631A1DA4913958A7222E6036FDDA29A99E8ACD68</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>6dc2b4d2-786b-412e-aeeb-23bc39bbf1af_1.0.0.0_x64__616fcb0n8sja6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6dc2b4d2-786b-412e-aeeb-23bc39bbf1af_616fcb0n8sja6!App</RegisteredUserModeAppID>
@@ -27,122 +27,162 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-11T17:23:31.812</Modified>
+      <Modified>2019-12-04T18:28:28.560</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.exe">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.exe">
       <PackagePath>entrypoint\Mk6 HaxBox P05_00_00.exe</PackagePath>
-      <Modified>2019-11-11T17:23:29.853</Modified>
+      <Modified>2019-12-04T18:28:25.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\bouncycastle.netcore\1.8.3\lib\netstandard2.0\BouncyCastle.Crypto.dll">
+      <PackagePath>BouncyCastle.Crypto.dll</PackagePath>
+      <Modified>2018-05-28T20:12:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\google.protobuf\3.6.1\lib\netstandard1.0\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+      <Modified>2018-08-10T22:51:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\mysql.data\8.0.18\lib\netstandard2.0\MySql.Data.dll">
+      <PackagePath>MySql.Data.dll</PackagePath>
+      <Modified>1980-01-01T05:00:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2019-07-22T18:01:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\ssh.net\2016.1.0\lib\uap10\Renci.SshNet.dll">
+      <PackagePath>Renci.SshNet.dll</PackagePath>
+      <Modified>2017-10-17T00:53:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\sshnet.security.cryptography\1.2.0\lib\uap10.0\SshNet.Security.Cryptography.dll">
+      <PackagePath>SshNet.Security.Cryptography.dll</PackagePath>
+      <Modified>2016-07-15T00:47:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\system.configuration.configurationmanager\4.4.1\lib\netstandard2.0\System.Configuration.ConfigurationManager.dll">
+      <PackagePath>System.Configuration.ConfigurationManager.dll</PackagePath>
+      <Modified>2017-11-20T23:09:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\system.resources.extensions\4.6.0-preview8.19405.3\lib\netstandard2.0\System.Resources.Extensions.dll">
+      <PackagePath>System.Resources.Extensions.dll</PackagePath>
+      <Modified>2019-08-05T20:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2018-09-18T23:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\system.security.cryptography.protecteddata\4.4.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll">
+      <PackagePath>System.Security.Cryptography.ProtectedData.dll</PackagePath>
+      <Modified>2017-07-19T14:01:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DevOtter\.nuget\packages\system.xml.xpath.xmldocument\4.0.1\lib\netstandard1.3\System.Xml.XPath.XmlDocument.dll">
+      <PackagePath>System.Xml.XPath.XmlDocument.dll</PackagePath>
+      <Modified>2016-06-12T03:15:02.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T22:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-11-04T16:24:48.000</Modified>
+      <Modified>2019-11-12T03:08:10.438</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-11-04T16:24:47.489</Modified>
+      <Modified>2019-11-12T03:08:09.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-04T16:24:47.496</Modified>
+      <Modified>2019-11-12T03:08:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-04T16:24:47.504</Modified>
+      <Modified>2019-11-12T03:08:09.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-04T16:24:47.512</Modified>
+      <Modified>2019-11-12T03:08:09.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-04T16:24:47.519</Modified>
+      <Modified>2019-11-12T03:08:09.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-04T16:24:47.527</Modified>
+      <Modified>2019-11-12T03:08:09.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-11-04T16:24:47.535</Modified>
+      <Modified>2019-11-12T03:08:09.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Fonts\Font Awesome 5 Brands-Regular-400.otf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Fonts\Font Awesome 5 Brands-Regular-400.otf">
       <PackagePath>Assets\Fonts\Font Awesome 5 Brands-Regular-400.otf</PackagePath>
-      <Modified>2019-11-05T20:25:16.773</Modified>
+      <Modified>2019-11-12T03:08:09.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Fonts\Font Awesome 5 Free-Solid-900.otf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Fonts\Font Awesome 5 Free-Solid-900.otf">
       <PackagePath>Assets\Fonts\Font Awesome 5 Free-Solid-900.otf</PackagePath>
-      <Modified>2019-11-05T20:25:16.828</Modified>
+      <Modified>2019-11-12T03:08:09.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\Assets\Fonts\Font Awesome 5 Free-Regular-400.otf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\Assets\Fonts\Font Awesome 5 Free-Regular-400.otf">
       <PackagePath>Assets\Fonts\Font Awesome 5 Free-Regular-400.otf</PackagePath>
-      <Modified>2019-11-05T20:52:03.035</Modified>
+      <Modified>2019-11-12T03:08:09.605</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.xr.xml">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.xr.xml">
       <PackagePath>Mk6 HaxBox P05_00_00.xr.xml</PackagePath>
-      <Modified>2019-11-07T16:30:18.588</Modified>
+      <Modified>2019-11-12T03:08:12.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.685</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\DataAnalysisPage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\DataAnalysisPage.xbf">
       <PackagePath>Pages\DataAnalysisPage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.686</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\FuelLogsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\FuelLogsPage.xbf">
       <PackagePath>Pages\FuelLogsPage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.686</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\MaintenancePage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\MaintenancePage.xbf">
       <PackagePath>Pages\MaintenancePage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.688</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\NavigationPage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\NavigationPage.xbf">
       <PackagePath>Pages\NavigationPage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.689</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\SettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\SettingsPage.xbf">
       <PackagePath>Pages\SettingsPage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\VehicleStatsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\VehicleStatsPage.xbf">
       <PackagePath>Pages\VehicleStatsPage.xbf</PackagePath>
-      <Modified>2019-11-07T17:29:28.617</Modified>
+      <Modified>2019-12-04T17:00:37.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T21:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-11-11T17:23:30.726</Modified>
+      <Modified>2019-12-04T17:00:39.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Core\Mk6 HaxBox P05_00_00.exe">
+    <AppxPackagedFile Include="C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Core\Mk6 HaxBox P05_00_00.exe">
       <PackagePath>Mk6 HaxBox P05_00_00.exe</PackagePath>
-      <Modified>2019-11-11T17:23:31.791</Modified>
+      <Modified>2019-12-04T18:28:28.509</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

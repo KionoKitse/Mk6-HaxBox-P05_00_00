@@ -75,3 +75,96 @@ C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\Na
 C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Assets\Fonts\Font Awesome 5 Brands-Regular-400.otf
 C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Assets\Fonts\Font Awesome 5 Free-Solid-900.otf
 C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\NavigationAndTopBar\Mk6 HaxBox P05_00_00\bin\x64\Debug\Assets\Fonts\Font Awesome 5 Free-Regular-400.otf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Assets\Fonts\Font Awesome 5 Brands-Regular-400.otf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Assets\Fonts\Font Awesome 5 Free-Solid-900.otf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Assets\Fonts\Font Awesome 5 Free-Regular-400.otf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\App.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\DataAnalysisPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\FuelLogsPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\MaintenancePage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\MainPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\NavigationPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\SettingsPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Pages\VehicleStatsPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.xr.xml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.exe
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.pdb
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\resources.pri
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\AppxManifest.xml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Core\Mk6 HaxBox P05_00_00.exe
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Mk6 HaxBox P05_00_00.build.appxrecipe
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\System.Runtime.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\App.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\App.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\DataAnalysisPage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\DataAnalysisPage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\FuelLogsPage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\FuelLogsPage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\MaintenancePage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\MaintenancePage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MainPage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\NavigationPage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\NavigationPage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\SettingsPage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\SettingsPage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\VehicleStatsPage.g.i.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\VehicleStatsPage.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\App.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\DataAnalysisPage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\FuelLogsPage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\MaintenancePage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MainPage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\NavigationPage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\SettingsPage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\VehicleStatsPage.xaml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\App.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\DataAnalysisPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\FuelLogsPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\MaintenancePage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MainPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\NavigationPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\SettingsPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Pages\VehicleStatsPage.xbf
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Mk6 HaxBox P05_00_00.csproj.CopyComplete
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Mk6 HaxBox P05_00_00.exe
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Mk6 HaxBox P05_00_00.pdb
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\priconfig.xml
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\resources.resfiles
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\pri.resfiles
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\qualifiers.txt
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\Mk6 HaxBox P05_00_00.csprojAssemblyReference.cache
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\MySql.Data.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\Renci.SshNet.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\SshNet.Security.Cryptography.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\System.Resources.Extensions.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\bin\x64\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MySql.Data\en-US\MySql.Data.Resources.resw
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\MySql.Data\en-US\MySql.Data.ResourcesX.resw
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\FxResources.System.Resources.Extensions.SR.resw
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\DevOtter\Documents\Visual Studio 2019\P05_00_00  Mk6 HaxBox\branches\MaintenanceSchedule\Mk6 HaxBox P05_00_00\obj\x64\Debug\FxResources.System.Xml.XPath.XmlDocument.SR.resw

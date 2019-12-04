@@ -119,6 +119,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Assets\DatabaseTools.cs" />
+    <Compile Include="Assets\GenTools.cs" />
+    <Compile Include="Assets\UserSpecificContent.cs" />
     <Compile Include="Pages\DataAnalysisPage.xaml.cs">
       <DependentUpon>DataAnalysisPage.xaml</DependentUpon>
     </Compile>
@@ -196,6 +199,9 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.9</Version>
+    </PackageReference>
+    <PackageReference Include="MySql.Data">
+      <Version>8.0.18</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

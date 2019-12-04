@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\NavigationAndTopBar\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj": {}
+    "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\MaintenanceSchedule\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\NavigationAndTopBar\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj": {
+    "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\MaintenanceSchedule\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\NavigationAndTopBar\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj",
+        "projectUniqueName": "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\MaintenanceSchedule\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj",
         "projectName": "Mk6 HaxBox P05_00_00",
-        "projectPath": "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\NavigationAndTopBar\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj",
+        "projectPath": "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\MaintenanceSchedule\\Mk6 HaxBox P05_00_00\\Mk6 HaxBox P05_00_00.csproj",
         "packagesPath": "C:\\Users\\DevOtter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\NavigationAndTopBar\\Mk6 HaxBox P05_00_00\\obj\\",
+        "outputPath": "C:\\Users\\DevOtter\\Documents\\Visual Studio 2019\\P05_00_00  Mk6 HaxBox\\branches\\MaintenanceSchedule\\Mk6 HaxBox P05_00_00\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -40,6 +40,10 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.9, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
             }
           },
           "imports": [
